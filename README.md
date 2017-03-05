@@ -75,4 +75,4 @@ Linux (Terminal)
 
     $ java -Djava.library.path="/home/username/Desktop/library" Hello
 
-> **Important:** Linux native shared libraries should start with the `lib` prefix followed by the `soname` - the library name. Please visit [here](http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) for more details.
+> **Important:** Linux native shared libraries should start with the `lib` prefix followed by the `soname` - the library name. Please visit [here](http://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html) to see the full details.
